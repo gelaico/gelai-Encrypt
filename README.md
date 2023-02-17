@@ -1,5 +1,5 @@
 # gelai-Encrypt
-Recursive Directory Encrypter/Decrypter pairing I wrote for my sister's business
+Recursive Directory Encrypter/Decrypter pair
 Very simple: threw it together in an hour or two
 
 Install python3
